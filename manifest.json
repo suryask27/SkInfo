@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "SK APP",
+  "description": "Surya SK Full Detials",
+  "version": "1.0",
+  "icons": { "128": "icon_128.png" },
+  "browser_action": {
+    "default_icon": "icon_19.png",
+    "default_popup": "mypage.html"
+  },
+  "permissions": ["activeTab"]
+}
